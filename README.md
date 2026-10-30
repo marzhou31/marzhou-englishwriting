@@ -1,4 +1,4 @@
-# 考研英语二高分写作教练 Skill (Kaoyan English II Writing Skill)
+# 考研英语二高分写作教练 Skill (marzhou-kaoyan-writing)
 
 > **专为考研英语二冲刺 21-23+ 高分段定制**（大作文 13-14 分，小作文 8.5-9.5 分）  
 > 深度融合**周思成老师**（地道情商、反模板倒装/非谓语、对象感与交际语境）与**石雷鹏老师**（模块化功能骨架、九达因果论据库、应试高分结构）。  
@@ -27,7 +27,7 @@
 ## 📁 项目目录结构
 
 ```text
-kaoyan-writing/
+marzhou-kaoyan-writing/
 ├── SKILL.md                                 # Antigravity 核心 Skill 定义与触发工作流（含真题检索规则）
 ├── README.md                                # 项目详细说明与全景考研指南
 ├── 2010-2026年考研英语二写作真题题目汇总.md   # 2010-2026年全真试题大全（带高清图表与排版）
